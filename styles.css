@@ -1,2 +1,18 @@
-
+.holder{
+	display:flex;
+	flex-wrap:wrap;
+}
+.box{
+	height:120px;
+	width:120px;
+	
+}
+.item-1{
+	background-color:yellow;
+	
+}
+.item-2{
+	background-color:orange;
+	
+}
 /* Your CSS Code here. */
