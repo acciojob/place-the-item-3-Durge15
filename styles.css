@@ -6,10 +6,10 @@
 .box{
 	height:120px;
 	width:120px;
-	
+	margin-bottom:10px;
 }
 .item-1{
-	background-color:yellow;
+	background-color:blue;
 	
 }
 .item-2{
